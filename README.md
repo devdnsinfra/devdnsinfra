@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+Novo usando o github::
 
 - 🔭 I’m currently working in DHAS
 - 🌱 I’m currently learning DEVOPS
